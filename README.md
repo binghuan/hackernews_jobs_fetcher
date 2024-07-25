@@ -1,3 +1,5 @@
+![](./icon.jpg)
+
 # HackerNews Jobs Fetcher
 
 This is a shell script that fetches the latest job postings from Hacker News and stores them in a local SQLite database. It also allows you to search for job postings by keyword.
